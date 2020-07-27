@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatIniciante</string>
+    <string name="text_button">Enviar</string>
+    <string name="editTextMensagem">Enter your message here</string>
+
+    <string name="text_header">Message received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter your reply here</string>
+
+</resources>
